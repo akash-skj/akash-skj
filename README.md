@@ -3,7 +3,7 @@
 
 I am a B.Tech CSE student with a passion for Web3, blockchain, and web development. I am proficient in programming languages such as C++, Java, and Python, as well as web development technologies such as HTML, CSS, JavaScript, and React.js. My goal is to build innovative projects in the Web3 space. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skj&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Education
@@ -38,7 +38,7 @@ I am a B.Tech CSE student with a passion for Web3, blockchain, and web developme
 
 
 <a href="https://github.com/akash-skj/D-Ender-Ethereum-dApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-skj&repo=Decentralised-Voting-dApp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-skj&repo=Decentralised-Voting-dApp&theme=dark#gh-dark-mode-only" />
 </a>
 
 - A decentralized application for voting in Ethereum blockchain
@@ -47,7 +47,7 @@ I am a B.Tech CSE student with a passion for Web3, blockchain, and web developme
 ***
 
 <a href="https://github.com/akash-skj/D-Ender-Ethereum-dApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-skj&repo=D-Ender-Ethereum-dApp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-skj&repo=D-Ender-Ethereum-dApp&theme=dark#gh-dark-mode-only" />
 </a>
 
 - A decentralized application for tender management in Ethereum blockchain
