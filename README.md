@@ -37,7 +37,7 @@ I am a B.Tech CSE student with a passion for Web3, blockchain, and web developme
 
 
 
-<a href="https://github.com/akash-skj/D-Ender-Ethereum-dApp">
+<a href="https://github.com/akash-skj/Decentralised-Voting-DApp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-skj&repo=Decentralised-Voting-dApp&theme=dark#gh-dark-mode-only" />
 </a>
 
