@@ -2,6 +2,7 @@
 ## Akash Suresh
 
 I am a B.Tech CSE student with a passion for Web3, blockchain, and web development. I am proficient in programming languages such as C++, Java, and Python, as well as web development technologies such as HTML, CSS, JavaScript, and React.js. My goal is to build innovative projects in the Web3 space. 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akash-skj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
