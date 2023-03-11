@@ -25,6 +25,9 @@ I am a B.Tech CSE student with a passion for Web3, blockchain, and web developme
   <img src="https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum logo">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity logo">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo">&nbsp;&nbsp;
+
+
+
 </div>
 
 
@@ -32,12 +35,20 @@ I am a B.Tech CSE student with a passion for Web3, blockchain, and web developme
 
 ## Projects
 
-### Decentralized Voting dApp
+
+
+<a href="https://github.com/akash-skj/D-Ender-Ethereum-dApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-skj&repo=Decentralised-Voting-dApp" />
+</a>
 
 - A decentralized application for voting in Ethereum blockchain
 - Technologies used: Solidity,  JavaScript,  Reactjs, TailwindCSS
 
-### Decentralized Tender Management dApp
+***
+
+<a href="https://github.com/akash-skj/D-Ender-Ethereum-dApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akash-skj&repo=D-Ender-Ethereum-dApp" />
+</a>
 
 - A decentralized application for tender management in Ethereum blockchain
 - Technologies used: Solidity,  JavaScript,  Reactjs, TailwindCSS
@@ -49,3 +60,5 @@ I am a B.Tech CSE student with a passion for Web3, blockchain, and web developme
   <a href="https://github.com/akash-skj"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/akash-suresh-8399881ab/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 </div>
+
+***
