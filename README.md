@@ -58,7 +58,7 @@ I am a B.Tech CSE student with a passion for Web3, blockchain, and web developme
 <div align="center">
   <a href="mailto:akashsuresh.sj@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
   <a href="https://github.com/akash-skj"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/akash-suresh-8399881ab/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/akash-skj/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 </div>
 
 ***
